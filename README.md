@@ -72,6 +72,10 @@ public:
 <img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://x.com/AngrejSingh_Dev">
+<img src="https://img.shields.io/badge/X-38BDF8?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 ---
